@@ -1,4 +1,4 @@
-import random,time,os
+import random,time,os,_random
 import threading,sys
 class Cake:
     def __init__(self,cid,cname,cprice):
